@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-01-20 15:42:11
- * @LastEditTime: 2021-01-20 15:58:43
+ * @LastEditTime: 2021-04-12 19:40:40
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /2021计划/README.md
@@ -52,3 +52,11 @@
 ### 生活
 
 * 一次远行
+
+### 其他
+
+* [https://juejin.cn/post/6947575368282800136?utm_source=gold_browser_extension]
+* [https://juejin.cn/post/6844903826198102030#heading-6]
+* [https://juejin.cn/post/6945640942976122910?utm_source=gold_browser_extension]
+* [https://juejin.cn/post/6947646934211379231?utm_source=gold_browser_extension]
+* [https://juejin.cn/post/6947860760840110088]
